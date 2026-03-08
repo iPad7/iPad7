@@ -2,31 +2,37 @@
 
 > **"Bridging the Gap between Knowledge and Action through Agentic Workflows"**
 
-Hello, I’m Jaebeom Lee. Leveraging my background in Business Administration (BBA), I architect Agentic AI systems capable of independent reasoning and execution to solve real-world problems. Beyond simple model implementation, I specialize in harmonizing real-time Action Agents with deep-insight Knowledge Agents to create truly autonomous solutions.
+Hello, I’m Jaebeom Lee. Leveraging my background in Business Administration (BBA), I architect Agentic AI systems capable of independent reasoning and execution to solve real-world problems. Beyond simple text generation, I specialize in harmonizing real-time **Action Agents** with deep-insight **Knowledge Agents** to create truly autonomous, interactive, and data-driven solutions.
 
 ---
 
-## 🚀 Current Focus: The Two Pillars of Agents
+## 🚀 Current Focus: Agentic Workflows & Autonomous Systems
 
-I am currently focused on evolving LLM capabilities from simple conversation to autonomous execution. Building on my experience in developing stateful agents with **LangGraph**, I am now exploring the synergy between **visual perception** and **knowledge-based reasoning**.
+I am currently focused on evolving LLM capabilities **from simple conversation to autonomous execution**. Building on my experience in developing stateful agents, I am architecting specialized systems across **data curation, workflow automation, and real-time multimodal interaction**.
 
-### 1️⃣ Lenario.ai (The Doer - Action Agent)
-* **Concept**: A Desktop Control Agent powered by Vision-Language Models (VLM).
-* **Focus**: Real-time screen recognition and automated decision-making for complex environments.
-* **Tech Stack**: Python, Computer Vision, OCR, LangGraph.
-* **Key Challenge**: Optimizing agentic workflows for real-time visual data parsing and interaction.
+### 1️⃣ Nishi.ai (The Curator - Data Pipeline Agent)
+* **Concept**: An agentic data pipeline that scouts, sanitizes, and curates authentic lifestyle trends in Fukuoka/Kyushu from Japanese press releases, targeting the 2030s demographic.
+* **Status**: PoC(Spike Testing)
+* **Tech Stack**: FastAPI, Upstage Solar API, Supabase(PostgreSQL), n8n.
+* **Key Challenge**: Implementing a cost-efficient Dual-Agent routing system (Scout & Deep Agents) to verify geographic relevance, prevent data hallucination, and synthesize content with tailored tone and manner.
 
-### 2️⃣ Deep-Scholar (The Thinker - Knowledge Agent)
-* **Concept**: A Graph RAG-based Research Assistant for academic papers.
-* **Focus**: Analyzing the academic "genealogy" by identifying citation intent (Contrast, Foundation, Baseline).
-* **Tech Stack**: FastAPI, LangGraph, Neo4j (Graph DB), Supabase (Vector DB), Upstage Solar Pro.
-* **Key Challenge**: Automating the classification of citation contexts and integrating multi-language research data.
+### 2️⃣ GS247.ai (The Automator - Workflow Agent)
+* **Concept**: A 24/7 autonomous Git Scheduler agent that continuously analyzes GitHub repository activity to dynamically generate and manage tasks within Notion.
+* **Status**: Architecture Design & Planning
+* **Tech Stack**: FastAPI, Celery, Docker, GitHub/Notion APIs.
+* **Key Challenge**: Designing a robust, asynchronous event-driven architecture to seamlessly bridge developer workspaces and project management tools in real-time.
+
+### 3️⃣ Project: Ciela (The Persona - AI VTuber Agent)
+* **Concept**: An autonomous AI streamer capable of real-time interaction with web browsers and live chat to host subculture "Ideal Type World Cup" contents.
+* **Status**: Architecture Design & Planning
+* **Tech Stack**: LangGraph, FastAPI, EXAONE-4.0-1.2B (SFT/DPO), Qwen-VL, Playwright.
+* **Key Challenge**: Orchestrating a state machine that harmonizes vision parsing, chat aggregation, and low-latency inference to drive real-time avatar actuation (VTube Studio) and web control.
 
 ---
 
 ## 🛠️ Technical Expertise
 
-### AI & Language (Core)***
+### AI & Language (Core)
 * **Languages: Python**, SQL.
 * **Agentic Workflows: LangGraph**, LangChain, Multi-Agent Systems.
 * **LLM & NLP: HuggingFace**, SFT (LoRA), Prompt Engineering.
