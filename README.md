@@ -12,7 +12,7 @@ I am currently focused on evolving LLM capabilities **from simple conversation t
 
 ### 1️⃣ Nishi.ai (The Curator - Data Pipeline Agent)
 * **Concept**: An agentic data pipeline that scouts, sanitizes, and curates authentic lifestyle trends in Fukuoka/Kyushu from Japanese press releases, targeting the 2030s demographic.
-* **Status**: PoC(Spike Testing)
+* **Status**: PoC([Spike](https://github.com/iPad7/nishi_toy) Testing)
 * **Tech Stack**: FastAPI, Upstage Solar API, Supabase(PostgreSQL), n8n.
 * **Key Challenge**: Implementing a cost-efficient Dual-Agent routing system (Scout & Deep Agents) to verify geographic relevance, prevent data hallucination, and synthesize content with tailored tone and manner.
 
