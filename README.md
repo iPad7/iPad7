@@ -48,6 +48,6 @@ I am currently focused on evolving LLM capabilities from simple conversation to 
 * **Soongsil University**: B.S. in Business Administration (BBA).
 * **The 13th SK Networks Family AI Camp**: Completed intensive training and served as a project lead.
 * **Key Past Projects**:
-    * **AI Relationship Specialist**: Led the development of an AI streamer; migrated the architecture from LCEL to **LangGraph** to support complex, stateful conversational loops.
-    * **SERA (AI Influencer)**: Designed scalable backend architecture and AWS infrastructure using Django.
-    * **Skin Care Products Recommendation Chatbot**: Built a RAG-based chatbot integrating fine-tuned sentiment analysis models.
+    * **[Love Language Model](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN13-FINAL-4Team)**: Led the development of an **AI streamer**; migrated the architecture from LCEL to **LangGraph** to support complex, stateful conversational loops.
+    * **[SERA (AI Influencer)](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN13-4th-4Team)**: Designed scalable backend architecture and AWS infrastructure using Django.
+    * **[Skin Care Products Recommendation Chatbot](https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN13-3rd-3Team)**: Built a **RAG-based chatbot integrating fine-tuned sentiment analysis models**.
